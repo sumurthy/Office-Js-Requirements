@@ -675,7 +675,7 @@
 					}],
 					"supportedRequirementSets": [{
 							"name": "ExcelApi",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": "16.0.4266.1001",
 							"firstVersion": "1509",
 							"availability": "GA"
@@ -694,31 +694,39 @@
 						}, {
 							"name": "ExcelApi",
 							"shortVersion": "1.4",
-							"firstBuild": null,
-							"firstVersion": "1702",
-							"availability": "Beta"
+							"firstBuild": "16.0.7870.2024",
+							"firstVersion": "1701",
+							"availability": "GA"
 						}, {
 							"name": "ExcelApi",
 							"shortVersion": "1.5",
-							"firstBuild": null,
-							"firstVersion": "1702",
-							"availability": "Beta"
+							"firstBuild": "16.0.8067.2070",
+							"firstVersion": "1703",
+							"availability": "GA"
 						}, {
 							"name": "ExcelApi",
 							"shortVersion": "1.6",
-							"firstBuild": null,
+							"firstBuild": "16.0.8201.2001",
 							"firstVersion": null,
-							"availability": "Beta"
-						}, {
+							"availability": "GA"
+						},
+						{
+							"name": "ExcelApi",
+							"shortVersion": "1.7",
+							"firstBuild": "16.0.8201.2001",
+							"firstVersion": "1704",
+							"availability": "GA"
+						},						
+						{
 							"name": "BindingEvents",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
 
 						}, {
 							"name": "DialogApi",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": "15.0.4855.1000",
 							"firstVersion": null,
 							"availability": "GA",
@@ -726,7 +734,7 @@
 
 						}, {
 							"name": "DocumentEvents",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -734,7 +742,7 @@
 
 						}, {
 							"name": "MatrixBindings",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -742,7 +750,7 @@
 
 						}, {
 							"name": "MatrixCoercion",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -750,7 +758,7 @@
 
 						}, {
 							"name": "Selection",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -758,7 +766,7 @@
 
 						}, {
 							"name": "TableBindings",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -766,7 +774,7 @@
 
 						}, {
 							"name": "TableCoercion",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -774,7 +782,7 @@
 
 						}, {
 							"name": "TextBindings",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -782,7 +790,7 @@
 
 						}, {
 							"name": "TextCoercion",
-							"shortVersion": null,
+							"shortVersion": "1.1",
 							"firstBuild": null,
 							"firstVersion": null,
 							"availability": "GA"
@@ -1027,7 +1035,7 @@
 					}],
 					"supportedRequirementSets": [{
 						"name": "ExcelApi",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
@@ -1037,84 +1045,114 @@
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
-					}, {
+					},
+					{
 						"name": "ExcelApi",
-						"shortVersion": null,
+						"shortVersion": "1.3",
 						"firstBuild": null,
-						"firstVersion": "1608",
+						"firstVersion": null,
 						"availability": "GA"
-					}, {
+					},
+					{
+						"name": "ExcelApi",
+						"shortVersion": "1.4",
+						"firstBuild": null,
+						"firstVersion": null,
+						"availability": "GA"
+					},
+					{
+						"name": "ExcelApi",
+						"shortVersion": "1.5",
+						"firstBuild": null,
+						"firstVersion": null,
+						"availability": "GA"
+					},
+					{
+						"name": "ExcelApi",
+						"shortVersion": "1.6",
+						"firstBuild": null,
+						"firstVersion": null,
+						"availability": "GA"
+					},
+					{
+						"name": "ExcelApi",
+						"shortVersion": "1.7",
+						"firstBuild": null,
+						"firstVersion": null,
+						"availability": "Beta"
+					},																									
+					{
 						"name": "BindingEvents",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "DialogApi",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": "15.0.4855.1000",
 						"firstVersion": null,
 						"availability": "GA"
 					}, {
 						"name": "DocumentEvents",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "MatrixBindings",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "MatrixCoercion",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "Selection",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "TableBindings",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "TableCoercion",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "TextBindings",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "TextCoercion",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
 
 					}, {
 						"name": "CompressedFile",
-						"shortVersion": null,
+						"shortVersion": "1.1",
 						"firstBuild": null,
 						"firstVersion": null,
 						"availability": "GA"
@@ -1197,6 +1235,13 @@
 							"availability": "GA"
 
 						}, {
+							"name": "Document.getFileAsync",
+							"shortVersion": "1.1",
+							"firstBuild": null,
+							"firstVersion": null,
+							"availability": "GA"
+
+						},{
 							"name": "Document.getSelectedDataAsync",
 							"shortVersion": "1.1",
 							"firstBuild": null,
@@ -1374,7 +1419,7 @@
 				}, {
 					"name": "WordApi",
 					"shortVersion": "1.3",
-					"firstBuild": "1.22",
+					"firstBuild": "2.22",
 					"firstVersion": null,
 					"availability": "GA"
 				}, {
@@ -1804,7 +1849,7 @@
 				}, {
 					"name": "WordApi",
 					"shortVersion": "1.3",
-					"firstBuild": "15.22",
+					"firstBuild": "15.32",
 					"firstVersion": null,
 					"availability": "GA"
 				}, {
@@ -2663,17 +2708,19 @@
 					"availability": "GA"
 				}, {
 					"name": "WordApi",
-					"shortVersion": "1.4",
-					"firstBuild": null,
-					"firstVersion": null,
+					"shortVersion": "1.3",
+					"firstBuild": "16.0.7668.1000",
+					"firstVersion": "1612",
 					"availability": "Beta"
-				}, {
+				}, 
+				{
 					"name": "WordApi",
 					"shortVersion": "1.4",
 					"firstBuild": "16.0.6925.1000",
-					"firstVersion": "1605",
-					"availability": "GA"
-				}, {
+					"firstVersion": "1612",
+					"availability": "Beta"
+				}, 
+				{
 					"name": "DialogApi",
 					"shortVersion": "1.1",
 					"firstBuild": "15.0.4855.1000",

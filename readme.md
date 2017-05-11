@@ -1,3 +1,8 @@
+# ALERT: 
+
+This repository is obsolete. Please use this repository instead: [https://github.com/officedev/office-js-requirement-sets](https://github.com/officedev/office-js-requirement-sets)
+
+
 # Office-Js Requirement sets
 
 The purpose of this repository is to provide a central source of mapping of Office hosts and their corresponding OfficeJs requirement sets.
